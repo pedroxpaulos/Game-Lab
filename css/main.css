@@ -1,0 +1,17 @@
+body {
+    background-color: #white;
+    margin: 0;
+    padding: 0;
+}
+
+#board {
+    background-color:rgb(4, 87, 60);
+    height: 100vh;
+    position: relative;
+}
+
+#player {
+    background-color:darkslateblue;
+    position: absolute;
+
+}
